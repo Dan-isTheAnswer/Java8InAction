@@ -1,0 +1,10 @@
+Look at How we can categorize jobs. 
+(Lining up vs Categorizing)
+
+The main reason why we categorize jobs rather than statically lining up methods like filterApplesByColor 
+is that it facilites cumbersome jobs by seperating logics. 
+
+1) Create two methods,filterApplesByColor and filterApplesByWeight.
+2) Create one method, filter, and two methods which are subcategorized into the method filter. 
+
+#assignment #functionalInterface 
