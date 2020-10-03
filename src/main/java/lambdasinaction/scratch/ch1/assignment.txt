@@ -1,0 +1,8 @@
+Title: Abstraction by Behavior Parameterization 
+- From static function to dynamic via Lambda 
+
+1) Create two methods, filterGreenApples(List<Apple> inventory) and filterHeavyApples(List<Apple> inventory).
+2) Create two method references using static boolean methods.
+3) Create one method, filterApples(List<Apple> inventory, ??), which integrates the above methods via abstraction.  
+
+#assignment #lambda 
